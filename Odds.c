@@ -2,16 +2,16 @@
 #include<conio.h>
 void main()
 {
-int a,b=0;
+int a;
 clrscr(); 
   Scanf(%d,&a);
-if(a>=b)
+if(a%2===0)
 {
-  printf("num is positive");
+  printf("num is even");
 }
 else
   {
-Prinf("num is negative");
+Prinf("num is odd");
   }
 }
 

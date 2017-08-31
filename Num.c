@@ -1,8 +1,8 @@
 #include<stdio.h> 
 void main()
 {
-int a;
-if(a>=0)
+int a,b=0;
+if(a>=b)
 printf(num is positive);
 
 else
